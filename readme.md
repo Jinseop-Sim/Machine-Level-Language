@@ -5,7 +5,7 @@
 </p>
 <br/>
 
-__It's Reverse Engineering Study with DREAMHACK!__
+__It's Reverse Engineering Study with DREAMHACK and PNU!__
 - What is Reverse Engineering?
 - x64 Architecture
 - Assembly
